@@ -11,7 +11,7 @@
 
 
 
-### Glad to see you here!  
+### Sobre mi...  
 Acabo de terminar mi formación como Web Developer Full Stack en Henry, y soy estudiante de tercer semestre de la Tecnología en Desarrollo de Software en la Institución Universitaria Digital de Antioquia.
 
 He adquirido y aplicado conocimientos tanto en Front-end, como en Back-end, aunque estoy más orientado a lo primero. Los proyectos desarrollados hasta el momento hacen parte de mi proceso formativo, y están disponibles acá, en mi perfil, como destacados.
@@ -92,11 +92,3 @@ Me gusta mucho el desarrollo de software y realmente disfruto escribiendo códig
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=CAgudeloBetancur&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
